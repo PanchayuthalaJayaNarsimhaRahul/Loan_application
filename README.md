@@ -227,5 +227,6 @@ Our tests cover the following scenarios:
 ---
 
 
-👩‍💻 Author
-Panchayuthala Jaya Narsimha Rahul
+👩‍💻 Author --
+Panchayuthala Jaya Narsimha Rahul 
+MCA
