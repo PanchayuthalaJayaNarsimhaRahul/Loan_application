@@ -222,3 +222,7 @@ Our tests cover the following scenarios:
 | `test_manual_review_routing_and_approval` | Large amount loan paused at review, then resumed and approved. | Transitioned from `pending_review` to `APPROVED`. |
 | `test_manual_review_routing_and_rejection` | Large amount loan paused at review, then resumed and rejected. | Transitioned from `pending_review` to `REJECTED`. |
 | `test_audit_trail_sequencing` | Audits that steps are written in order with chronological timestamps. | 6 sequential audit logs matching graph flow. |
+
+
+👩‍💻 Author
+Panchayuthala Jaya Narsimha Rahul
